@@ -1,0 +1,4 @@
+*.suo
+*.user
+InjectorLibrary/obj
+InjectorUIBasic/obj
